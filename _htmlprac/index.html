@@ -1,0 +1,23 @@
+---
+layout: topic
+title: HTML
+---
+
+<h1>Hypertext Markup Language</h1>
+
+<hr>
+<nav class="tocnav">
+  <h2> Table of Contents </h2>
+
+  <ol>
+    {% for doc in site.htmlprac %}
+      {% if doc.questions != null %}
+        <li class="tocnav section">
+          <a href="/{{ doc.collection }}/{{ doc.section }}/index">
+            {{ doc.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>

@@ -1,0 +1,16 @@
+<h3>
+  {{ include.title }}
+</h3>
+<nav class="topicnav">
+  <ul>
+    <li>
+      {% for doc in {{ include.coll }} %}
+        {% if doc.questions != null %}
+            <a class="topicnav section" href="/{{ matter.label }}/{{ doc.title }}/index">
+              {{ doc.title }}
+            </a>
+        {% endif %}
+      {% endfor %}
+    </li>
+  </ul>
+</nav>

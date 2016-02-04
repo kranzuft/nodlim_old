@@ -1,0 +1,29 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    {% if page.quote != NULL %}
+    <section class="page-quote">
+      <blockquote class="page-quote">
+        <p>{{ page.quote }}</p>
+        <footer>
+          <cite><a href="{{ page.qcite }}">{{ page.qauth }}</a></cite>
+        </footer>
+      </blockquote>
+    </section>
+    {% endif %}
+
+    <section>
+      <h1> <a href="{{ site.baseurl }}">
+        {{ site.title }}
+        </a></h1>
+    </section>
+
+    <nav class="sidebar-nav">
+      {% for node in site.pages %} {% if node.layout == "root" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %}active{% endif %}"
+         href="{{ node.url }}">
+        {{ node.title }}
+      </a>
+      {% endif %} {% endfor %}
+    </nav> 
+  </div>
+</div>

@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:			  Nodlim
+description:      >
+                  Language agnostic programming problems,
+                  with answers in several programming languages.
+url:              "/"
+baseurl:          /
+
+gems: [pygments]
+
+# Date settings
+timezone: Australia/Sydney
+
+collections:
+  htmlprac:
+    booknum: 1
+    topic: "Hypertext Markup Language"
+    title: "Hypertext Markup Language (HTML)"
+    output: true

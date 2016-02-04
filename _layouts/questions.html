@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1 class="page-title"> {{ page.title }} | Questions </h1>
+
+<hr>
+
+<nav class=pracpage>
+  <strong> Questions </strong>
+  <ol>
+    {% for qst in page.questions %}
+      <li class = "tocnav section">
+        <a href="/{{ page.collection }}/ans/{{ page.section }}/index/#{{qst.link}}">
+          {{ qst.desc }}
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+  <hr>
+  <strong> Advanced Questions </strong>
+  <ol>
+    {% for aqst in page.adv_questions %}
+      <li class = "tocnav section">
+        <a href="/{{ page.collection }}/ans/{{ page.section }}/index/#{{aqst.link}}">
+          {{ aqst.desc }}
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</nav>
