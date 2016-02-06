@@ -1,14 +1,20 @@
 ---
 layout: topic
 title: HTML
+mainhead: Hypertext Markup Language Table of Contents
 ---
 
-<h1>Hypertext Markup Language</h1>
+<hr>
+
+<section class="description"></section>
+  <p>
+    This is a large volume of programming challenges, with coded solutions. The sections are organised in the same manner as the MDN <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML element reference</a>.
+  </p>
+</section>
 
 <hr>
-<nav class="tocnav">
-  <h2> Table of Contents </h2>
 
+<nav class="tocnav">
   <ol>
     {% for doc in site.htmlprac %}
       {% if doc.questions != null %}
