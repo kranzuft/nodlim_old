@@ -6,9 +6,10 @@ title: The Absolute Basics
 <h2 id="hello">Display a message with minimal code</h2>
 
 ### The Code
-```html
+
+~~~ html
 Hello, world!
-```
+~~~
 
 ### Page Preview 
 
@@ -21,13 +22,14 @@ Hello, world!
 <h2 id="doctype">Display "Hello HTML5" with doctype and root element</h2>
 
 ### The Code
-```html
+
+~~~ html
 <!DOCTYPE "html">
 
 <body>
 Hello, world!
 </body>
-```
+~~~
 
 ### Page Preview
 
@@ -36,5 +38,3 @@ Hello, world!
 </div>
 
 <hr>
-
-<h2 id=""
