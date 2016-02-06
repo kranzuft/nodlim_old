@@ -3,8 +3,7 @@ layout: answer
 title: The Absolute Basics 
 ---
 
-<a id="hello"></a>
-## Display a message with minimal code
+<h2 id="hello">Display a message with minimal code</h2>
 
 ### The Code
 ```html
@@ -19,8 +18,7 @@ Hello, world!
 
 <hr>
 
-<a id="type"></a>
-## Display "Hello HTML5" with doctype and root element
+<h2 id="doctype">Display "Hello HTML5" with doctype and root element</h2>
 
 ### The Code
 ```html
@@ -36,3 +34,7 @@ Hello, world!
 <div class="page-preview">
 Hello, world!
 </div>
+
+<hr>
+
+<h2 id=""

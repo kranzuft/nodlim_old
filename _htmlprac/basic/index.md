@@ -6,8 +6,6 @@ title: The Absolute Basics
 questions:
   - desc: Display a message. I'd suggest "Hello, world!" if you want to conform to tradition. Use minimal html code.
     link: hello
-  - desc: Write a HTML5 document with the minimum code required.
-    link: minhtmlfive
   - desc: Display "Hello HTML5" with a HTML5 doctype and the HTML root element.
     link: type
 adv_questions:
