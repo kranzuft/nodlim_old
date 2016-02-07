@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
-quote: Thoughts without content are empty, intuitions without concepts are blind.
-qauth: Immanuel Kant
+quote: For the human makers of things, the incompleteness and inconsistencies of our ideas become clear only during implementation. Thus it is that writing, experimentation, "working out" are essential disciplines for the theoretician.
+qauth: Frederick P. Brooks
 qcite: https://archive.org/details/immanuelkantscri032379mbp
 qauth-short: I.Kant
 ---
