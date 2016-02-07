@@ -83,7 +83,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
 
 /* Citation */
 .page-quote { 
-  font-family: "Alegreya", "PT Sans", Georgia, sans-serif;
+  font-family: "Droid Serif", "PT Serif", Georgia, sans-serif;
   font-style: normal;
   vertical-align: top;
 }
@@ -176,6 +176,14 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
+/* Problem Solutions */
+
+.problem-ans h2 {
+  position: relative;
+  margin: 1.5rem 0; 
+  border-bottom: 1px solid #26282D; /*202020*/ 
+}
 
 /*
  * Reverse layout
