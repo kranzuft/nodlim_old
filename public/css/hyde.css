@@ -61,10 +61,9 @@ section {border:1px dotted #4ccb73; padding:.5em}
     width: 14rem;
   }
 }
-
-@media (max-width: 48em) {
+@media (max-width: 48em), (min-width: 64em) and  (max-height: 40em), (max-width: 64em) and (max-height: 30em) {
   .sidebar blockquote {
-    display: none
+    display: none;
   }
 }
 
