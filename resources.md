@@ -6,7 +6,7 @@ heading: Learning to Program | External Resources
 
 <hr>
 
-## Hypertext Markup Language (HTML)
+<h2 id=html> Hypertext Markup Language (HTML)</h2>
 
 **References**
 
