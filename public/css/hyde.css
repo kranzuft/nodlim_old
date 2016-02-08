@@ -58,7 +58,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
     top: 0;
     left: 0;
     bottom: 0;
-    width: 14rem;
+    width: 15rem;
   }
 }
 @media (max-width: 48em), (min-width: 64em) and  (max-height: 40em), (max-width: 64em) and (max-height: 30em) {
@@ -91,6 +91,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
   position: relative;
   border-left: 0rem solid #e5e5e5;
   padding: 0 1rem 0 0;
+  padding-right: 1rem;
   line-height: 1.5rem;
 }
 .page-quote blockquote p {
