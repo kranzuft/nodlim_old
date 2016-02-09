@@ -29,6 +29,8 @@ nbproject
 *.sublime-workspace
 .idea
 
+quote-ideas.md
+
 # Komodo
 *.komodoproject
 .komodotools
