@@ -19,11 +19,11 @@ I attempted to organise this page in a reasonable order, generally trying to fol
 * [intermediate resources]() **PAID**
 * [advanced resources]() **PAID**
 
-The exception is for references however, which are ordered alphabetically like this:
+The exception is for references, which have been ordered alphabetically like this:
 
 * [a reference]() **FREE**
 * [some other reference]() **FREE**
-* [a futher reference]() **PAID**
+* [a further reference]() **PAID**
 * [this last reference]() **PAID**
 
 <hr>
