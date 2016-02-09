@@ -17,12 +17,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -61,7 +61,8 @@ section {border:1px dotted #4ccb73; padding:.5em}
     width: 15rem;
   }
 }
-@media (max-width: 48em), (min-width: 64em) and  (max-height: 40em), (max-width: 64em) and (max-height: 30em) {
+
+@media (max-width: 48em), (min-width: 58em) and  (max-height: 40em), (max-width: 58em) and (max-height: 30em) {
   .sidebar blockquote {
     display: none;
   }
@@ -76,18 +77,18 @@ section {border:1px dotted #4ccb73; padding:.5em}
 /* Heading section */
 .sidebar h1 a {
   color: #fff; 
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif", Georgia, serif;
   font-size: 2.5rem;
 }
 
 /* Citation */
 .page-quote { 
-  font-family: "Droid Serif", "PT Serif", Georgia, sans-serif;
-  font-style: normal;
+  font-family: Georgia, serif;
+  font-style: italic;
   vertical-align: top;
 }
 .page-quote blockquote { 
-  font-size: 1.5rem; 
+  font-size: 1.4rem;
   position: relative;
   border-left: 0rem solid #e5e5e5;
   padding: 0 1rem 0 0;
@@ -164,7 +165,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 16rem;
+    margin-left: 17rem;
     margin-right: 2rem;
   }
 }
@@ -186,30 +187,6 @@ a.sidebar-nav-item:focus {
 }
 
 /*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
- */
-
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
-  }
-}
-
-/*
  * practice page
  *
  * This controls the look of the navigation elements with the exception of the sidebar nav
@@ -220,7 +197,7 @@ a.sidebar-nav-item:focus {
   padding-top: 0rem;
 }
 .tocnav ul {
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif", Georgia, serif;
 }
 .tocnav a {
   color: #26282D;
