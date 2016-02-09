@@ -1,6 +1,6 @@
 ## NODLIM: Programming challenges and solutions
 
-A website in (very) early development, aimed toward providing programming challenges with coded solutions.
+A website in early development, aimed toward providing programming challenges with coded solutions.
 
 ### Topics to be covered:
 
