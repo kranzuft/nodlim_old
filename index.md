@@ -3,7 +3,7 @@ layout: default
 title: Home
 quote: Inconsistencies of our ideas become clear only during implementation. Thus it is that writing, experimentation, "working out" are essential disciplines for the theoretician.
 qauth: Frederick P. Brooks
-qcite: https://archive.org/details/immanuelkantscri032379mbp
+qcite: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 qauth-short: I.Kant
 ---
 
