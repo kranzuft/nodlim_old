@@ -8,7 +8,7 @@ title: The Absolute Basics
 <h4>Solution</h4>
 <section class="codepen">
   <p data-height="100" data-theme-id="0" data-slug-hash="OMBovE" data-default-tab="result" data-user="kranzuft" class='codepen'>
-    <em>Sorry!</em> Your browser likely can't render the solution, or you're viewing this page offline.
+    <em>Sorry!</em> Your browser can't render the solution. Perhaps you're viewing this page offline.
     You can see the solution for this problem <a href='http://codepen.io/kranzuft/pen/OMBovE/'>here</a> 
     on <a href='http://codepen.io'>CodePen</a>.
   </p>
@@ -22,7 +22,7 @@ Yes! html can be written without any html elements. As the document type is not 
 <h2 id="doctype">Greet HTML5, specifying a doctype and root element</h2>
 
 
-<h2 id="multline">Display multiple lines of text</h2>
+<h2 id="multline">Write some paragraphs in HTML5</h2>
 
 
 [htmlmodes]:https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode
