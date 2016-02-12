@@ -6,7 +6,7 @@ title: The Absolute Basics
 <h2 id="hello">Display a message with minimal code</h2>
 
 <h4>Solution</h4>
-{% include pen-s.html add="OMBovE" h=100 %}
+{% include pen.html add="OMBovE" h=100 %}
 
 <h4>Notes</h4>
 Oh what is this? HTML can be written without markup? Well not exactly. The document type is not specified in the source for this solution, and so the browser will enter [quirks mode][htmlmodes]. This is because you aren't using any specific version of HTML, as you have not specified the ```!DOCTYPE``` (document type), and so the browser does the best it can to correctly display your page with the markup you've written. 
@@ -17,7 +17,7 @@ If you specify a certain variant of HTML, such as XHTML, you may be forced to wr
 <h2 id="doctype">Greet HTML5, specifying a doctype and root element</h2>
 
 <h4>Solution</h4>
-{% include pen-s.html add="WrPboE" h=100 %}
+{% include pen.html add="WrPboE" h=100 %}
 
 <h4>Notes</h4>
 You may notice the font is different between this solution and the one above it. This is because this answer has the text we wish to display surrounded by this: ```<html></html>```, and [CodePen][codepen] decides this is HTML5 with no formatting, so chooses to use a sans-serif font. The first solution is just plain text in a HTML document, and since [CodePen][codepen] isn't sure what we want, it displays the text in a sans font.
@@ -25,7 +25,7 @@ You may notice the font is different between this solution and the one above it.
 <h2 id="multline">Write some paragraphs in HTML5</h2>
 
 <h4>Solution</h4>
-{% include pen-m.html add="XXOXGL" h=150 %}
+{% include pen.html add="XXOXGL" h=150 %}
 
 <h4>Nodes</h4>
 Whitespace formatting is ignored in HTML5, and hence even though I wrote two indented paragraphs of text, the resulting webpage contains a single paragraph, with none of the indentation. Indentation can be added with elements such as the paragraph ```<p>``` and unordered list ```<ul>``` elements.
