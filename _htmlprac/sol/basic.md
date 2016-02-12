@@ -6,24 +6,26 @@ title: The Absolute Basics
 <h2 id="hello">Display a message with minimal code</h2>
 
 <h4>Solution</h4>
-<section class="codepen">
-  <p data-height="100" data-theme-id="0" data-slug-hash="OMBovE" data-default-tab="result" data-user="kranzuft" class='codepen'>
-    <em>Sorry!</em> Your browser can't render the solution. Perhaps you're viewing this page offline.
-    You can see the solution for this problem <a href='http://codepen.io/kranzuft/pen/OMBovE/'>here</a> 
-    on <a href='http://codepen.io'>CodePen</a>.
-  </p>
-  <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-</section>
+{% include pen.html address="OMBovE" %}
 
 <h4>Notes</h4>
-Yes! html can be written without any html elements. As the document type is not specified, the browser will enter [quirks mode][htmlmodes]. However, you aren't using any specific version of HTML as you have not specified the ```!DOCTYPE``` (document type). If you're interested in XHTML, you should know it is less lenient. It's worth looking into the [purpose of XHTML][xhtmlpurp].
+Oh what is this? HTML can be written without markup? Well not exactly. The document type is not specified in the source for this solution, and so the browser will enter [quirks mode][htmlmodes]. This is because you aren't using any specific version of HTML, as you have not specified the ```!DOCTYPE``` (document type), and so the browser does the best it can to correctly display your page with the markup you've written. 
+
+If you specify a certain variant of HTML, such as XHTML, you may be forced to write [well-formed][xhtmllen] markup. It's worth looking into the [purpose of XHTML][xhtmlpurp] for more background on this issue of well-formedness. Interestingly, [CodePen][codepen] doesn't want me to bother including the document type, but for the educational benefit, we include the HTML5 doctype: ```<!DOCTYPE html>```, where appropriate in other solutions.
 
 
 <h2 id="doctype">Greet HTML5, specifying a doctype and root element</h2>
 
+<h4>Solution</h4>
+{% include pen.html address="WrPboE" %}
+
+<h4>Notes</h4>
+You may notice the font is different between this solution and the one above it. This is because this answer has the text we wish to display surrounded by this: ```<html></html>```, and [CodePen][codepen] decides this is HTML5 with no formatting, so chooses to use a sans-serif font. The first solution is just plain text in a HTML document, and since [CodePen][codepen] isn't sure what we want, it displays the text in a sans font.
 
 <h2 id="multline">Write some paragraphs in HTML5</h2>
 
 
 [htmlmodes]:https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode
 [xhtmlpurp]:http://diveintohtml5.info/past.html#xhtml
+[xhtmllen]:https://www.w3.org/TR/xhtml1/#diffs
+[codepen]: http://codepen.io/about/
