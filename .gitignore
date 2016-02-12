@@ -28,6 +28,7 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+_htmlprac/.DS_Store
 
 quote-ideas.md
 prooflist.txt
