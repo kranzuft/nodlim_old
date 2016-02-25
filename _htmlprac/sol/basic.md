@@ -30,11 +30,13 @@ Whitespace formatting is ignored in HTML5, and hence even though I wrote two par
 
 Here I've written a simple golang program in my HTML document. Clearly all the formatting has been removed, reinforcing what was said in the previous example.
 
+<h2 id="versions">Write a webpage in a bunch of HTML variants</h2>
+
 <h2 id="essential">Write a webpage with the essentials</h2>
 
 {% include pen.html add="YwovZo" h=250 %}
 
-This a very subjective question, but what I have written I believe correct.
+This an inherently subjective question, to an astronomical degree. The code chosen was source from articles from places like 
 
 [golangintro]: https://tour.golang.org/welcome/1
 [htmlmodes]:https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode

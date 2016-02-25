@@ -9,7 +9,7 @@ qauth: MDN HTML element reference
 questions:
   - desc: Display a message. I would suggest "Hello, world!" if you want to conform to tradition. Use minimal html code.
     link: hello
-  - desc: Display "Hello HTML5" with a HTML5 doctype and the HTML root element.
+  - desc: Display "Hello HTML5" with a HTML5 document type and the HTML root element.
     link: doctype  
   - desc: Display several paragraphs on a webpage of text with a HTML5 doctype and HTML root element.
     link: multline
