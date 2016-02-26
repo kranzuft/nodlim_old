@@ -20,7 +20,7 @@
     <nav class="sidebar-nav">
       {% for node in site.pages %} {% if node.layout == "root" %}
       <a class="sidebar-nav-item{% if page.url == node.url %}active{% endif %}"
-         href="/nodlim/{{ node.url }}">
+         href="{{ site.github.url }}{{ node.url }}">
         {{ node.title }}
       </a>
       {% endif %} {% endfor %}   
