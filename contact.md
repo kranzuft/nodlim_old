@@ -9,4 +9,8 @@ qcite: https://en.wikipedia.org/wiki/The_Dispossessed
 
 -------------------------------------------------
 
+For now, please message me on [twitter][twitter] for all matters.
+
+
+[twitter]:https://twitter.com/kranzuft
 
