@@ -12,7 +12,7 @@
     {% endif %}
 
     <section>
-      <h1> <a href="{{ site.baseurl }}">
+      <h1> <a href="{{ site.github.url }}">
         {{ site.title }}
         </a></h1>
     </section>
@@ -20,7 +20,7 @@
     <nav class="sidebar-nav">
       {% for node in site.pages %} {% if node.layout == "root" %}
       <a class="sidebar-nav-item{% if page.url == node.url %}active{% endif %}"
-         href="{{ node.url }}">
+         href="/nodlim/{{ node.url }}">
         {{ node.title }}
       </a>
       {% endif %} {% endfor %}   

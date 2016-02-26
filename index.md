@@ -19,6 +19,6 @@ This website is a tool for you, the programmer, whether you're a student, teache
     * [Beginner Problems][htmlprob] 
     * [Resources][htmlres]
 
-[htmlprob]:/htmlprac/index/
-[htmlres]:/resources/#html
-[exercises]:/exercises/
+[htmlprob]:{{ site.github.url }}/htmlprac/index/
+[htmlres]:{{ site.github.url }}/resources/#html
+[exercises]:{{ site.github.url }}/exercises/
