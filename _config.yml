@@ -11,7 +11,7 @@ title:			  Nodlim
 description:      >
                   Language agnostic programming problems,
                   with answers in several programming languages.
-url:              "/"
+url:              "kranzuft.github.com/nodlim/"
 baseurl:          /
 
 gems: [pygments]
