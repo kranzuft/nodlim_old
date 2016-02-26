@@ -1,6 +1,6 @@
 ## NODLIM: Programming challenges and solutions
 
-A website in early development, aimed toward providing programming challenges with coded solutions.
+A website in early development, aimed toward providing programming challenges with coded solutions. 
 
 ### Topics to be covered:
 
@@ -9,4 +9,4 @@ A website in early development, aimed toward providing programming challenges wi
 
 ### How long until everything is ready?
 
-To be decided.
+Current estimate is in 2017 the HTML section will be completed. Language-agnostic questions will be finished by 2018 (hopefully). The references section will evolve over time.
