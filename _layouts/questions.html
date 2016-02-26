@@ -11,7 +11,7 @@ layout: default
   <ol>
     {% for qst in page.questions %}
       <li class = "tocnav section">
-        <a href="/{{ page.collection }}/sol/{{ page.section }}/#{{qst.link}}">
+        <a href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/#{{qst.link}}">
           {{ qst.desc }}
         </a>
       </li>
@@ -22,7 +22,7 @@ layout: default
   <ol>
     {% for aqst in page.adv_questions %}
       <li class = "tocnav section">
-        <a href="/{{ page.collection }}/sol/{{ page.section }}/#{{aqst.link}}">
+          <a href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/#{{aqst.link}}">
           {{ aqst.desc }}
         </a>
       </li>
