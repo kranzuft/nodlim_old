@@ -35,17 +35,25 @@ heading: Learning to Program | External Resources
 
 <hr>
 
+<h2 id="gamedev">Game Development</h2>
+
+<h3>Interactive Online Courses</h3>
+
+* [Game Mechanic Explorer](http://gamemechanicexplorer.com/) **FREE** "_A collection of concrete examples for various game mechanics, algorithms, and effects._"
+
+<hr>
+
 <h2 id="typetheory">Type Theory</h2>
 
 <h3>Online Lessons, Books and Articles</h3>
 
-* Practical Foundations for Programming Languages ([1st ed. draft](PFPL1stD)) ([2nd ed. draft](PFPL2ndD)) **FREE** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
-* Practical Foundation for Programming Languages ([1st ed.](PFPL1st)) **PAID** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
+* Practical Foundations for Programming Languages ([1st ed. draft][PFPL1stD]) ([2nd ed. draft][PFPL2ndD]) **FREE** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
+* Practical Foundation for Programming Languages ([1st ed.][PFPL1st]) **PAID** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
 
-<h3>Other Learning Resource Lists</h3>
+<h3>Other Lists of References</h3>
 
 * [So you want to learn type theory](http://purelytheoretical.com/sywtltt.html) **FREE** "_where to start? Here are some suggestions._"
 
 [PFPL1st]: http://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570
-[PFPL1stD]: https://www.cs.cmu.edu/~rwh/plbook/book.pdfA
+[PFPL1stD]: https://www.cs.cmu.edu/~rwh/plbook/book.pdf
 [PFPL2ndD]: https://www.cs.cmu.edu/~rwh/plbook/2nded.pdf
