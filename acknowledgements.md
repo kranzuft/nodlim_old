@@ -12,9 +12,9 @@ qcite: http://www.worldofdante.org/comedy/dante/inferno.xml/1.7
 
 Acknowledgements my be provided for the hard work of several open source projects used to create this website. Without them, this project would have probably died at the planning stage.
 
-## Jekyll Site Generator
+## [Jekyll][jekyll] Site Generator
 
-[Jekyll][jekyll] aims to provide simple, blog-aware, static sites. It is an excelent static site generator and deserves far more attention. It is used to generate this website. It is superbly great to work with.
+[Jekyll][jekyll] aims to provide simple, blog-aware, static sites. It is an excelent static site generator and deserves far more attention. It is used to generate this website, and it is superbly great to work with.
 
 ## [@mdo's][mdo] templates for Jekyll
 
