@@ -19,6 +19,7 @@ heading: Learning to Program | External Resources
 
 * [Dive Into HTML5](http://diveintohtml5.info/) **FREE** "_Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards._"
 * [Shay Howe's HTML Lessons](http://learn.shayhowe.com/) **FREE** "_How to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels._"
+* [Why Tables for Layout is Stupid](https://www.hotdesign.com/seybold/everything.html) **FREE** "_problems defined, solutions offered_"
 
 <h3>Interactive Online Courses</h3>
 
