@@ -2,6 +2,8 @@
 
 A website in early development, aimed toward providing programming challenges with coded solutions. 
 
+![nodlim site preview](https://raw.githubusercontent.com/Kranzuft/nodlim/master/images/nodlim%20preview.png)
+
 ### Topics to be covered:
 
 1. HTML Questions
