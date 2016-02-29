@@ -11,7 +11,9 @@ qauth-short: I.Kant
 
 -------------------------
 
-This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and you can use it to consolidate previously learnt ideas. Exercises can be found [here][exercises].
+> **NOTE**: This website is in very early stages of development. HTML exercises are currently under development, but nothing else has been completed thus far. Stay up to date by following [@kranzuft][twit-kranz].
+
+This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt ideas. Exercises can be found [here][exercises].
 
 ## Covered Material
 
@@ -22,3 +24,4 @@ This website is a tool for you, the programmer, whether you're a student, teache
 [htmlprob]:{{ site.github.url }}/htmlprac/index/
 [htmlres]:{{ site.github.url }}/resources/#html
 [exercises]:{{ site.github.url }}/exercises/
+[twit-kranz]: twitter.com/kranzuft/
