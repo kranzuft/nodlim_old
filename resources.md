@@ -1,13 +1,13 @@
 ---
 layout: root
 title: Resources
+heading: Learning to Program | External Resources
 quote: Here, more than elsewhere, I saw multitudes to every side of me; their howls were loud while, wheeling weights, they used their chests to push.
 qauth: Dante [Allen M.]
 qcite: http://www.worldofdante.org/comedy/dante/inferno.xml/1.7 
-heading: Learning to Program | External Resources
 ---
 
-<hr>
+-------------------------------------------------
 
 <h2 id="html">Hypertext Markup Language (HTML)</h2>
 

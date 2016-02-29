@@ -101,6 +101,9 @@ section {border:1px dotted #4ccb73; padding:.5em}
   font-size: 1.05rem;
   margin-top: 1.25rem;
 }
+.sidebar a:hover {
+  text-decoration: underline; 
+}
 .sidebar-nav a {
   font-size: 1.25rem;
 }
