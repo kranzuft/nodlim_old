@@ -21,7 +21,7 @@ gems: [pygments]
 timezone: Australia/Sydney
 
 collections:
-  htmlprac:
+  html:
     booknum: 1
     topic: "Hypertext Markup Language"
     title: "Hypertext Markup Language (HTML)"
