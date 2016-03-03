@@ -154,7 +154,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
 }
 
 /* Hide page quote on small windows */
-@media (max-width: 48em), (min-width: 58em) and  (max-height: 40em), (max-width: 58em) and (max-height: 32em) {
+@media (max-width: 47.95em), (min-width: 58em) and  (max-height: 40em), (max-width: 58em) and (max-height: 32em) {
   .sidebar blockquote {
     display: none;
   }  
