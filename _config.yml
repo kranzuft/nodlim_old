@@ -12,8 +12,7 @@ tagline:          Programming Exercises with Solutions
 description:      >
                   Language agnostic programming problems,
                   with answers in several programming languages.
-url:              "kranzuft.github.com/nodlim/"
-baseurl:          /
+url:              "{{ site.github.url }}"
 
 gems: [pygments]
 
@@ -22,7 +21,7 @@ timezone: Australia/Sydney
 
 collections:
   html:
-    booknum: 1
+    booknum: 1 
     topic: "Hypertext Markup Language"
     title: "Hypertext Markup Language (HTML)"
     output: true
