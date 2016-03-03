@@ -16,7 +16,7 @@ Below is the table of contents for all programming challenge books. Solutions ar
     {% if matter.topic != NULL %}
       <hr>
       <strong>
-          <a href="{{ site.github.url }}/{{ matter.label }}/index/">
+        <a href="{{ site.github.url }}/{{ matter.label }}/index/">
           BOOK {{ matter.booknum }}: {{ matter.title }}
         </a>
       </strong>
@@ -25,8 +25,8 @@ Below is the table of contents for all programming challenge books. Solutions ar
           {% for doc in matter.docs %}
             {% if doc.questions != null %}
             <a href="{{ site.github.url }}/{{ matter.label }}/{{ doc.section }}/">
-                  {{ doc.title }}
-                </a>
+              {{ doc.title }}
+            </a>
             {% endif %}
           {% endfor %}
         </li>
