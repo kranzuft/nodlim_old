@@ -16,3 +16,21 @@ A website in early development, aimed toward providing programming challenges wi
 ### How long until everything is ready?
 
 Current estimate is in 2017 the HTML section will be completed. Language-agnostic questions will be finished by 2020 (hopefully). The references section will evolve over time.
+
+### Acknowledgements
+
+These projects were the foundation this website was built from. Acknowledgements can also be found [here][site-ack] on http://nodl.im.
+
+#### [Jekyll][jekyll-web] Site Generator
+
+[Jekyll][jekyll-web] aims to provide simple, blog-aware, static sites. It is an excelent static site generator and deserves far more attention. It is used to generate this website, and it is superbly great to work with.
+
+#### [@mdo's][mdo-twitter] templates for Jekyll
+
+The jekyll template this website was built on was [Hyde][hyde-web], designed by [@mdo][mdo-twitter] as an offical template for his own foundational jekyll setup [Poole][poole-web]. Hyde and Poole helped this site blossom, acting as excellent Jekyll and CSS learning material. Hyde was easy to build on top of, and inspired nodlim's design profoundly.
+
+[jekyll-web]: http://jekyllrb.com/
+[poole-web]: http://getpoole.com
+[mdo-twitter]: http://twitter.com/mdo
+[hyde-web]: http://hyde.getpoole.com
+[site-ack]: http://nodl.im/acknowledgements
