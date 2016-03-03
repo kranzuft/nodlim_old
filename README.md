@@ -2,7 +2,8 @@
 
 A website in early development, aimed toward providing programming challenges with coded solutions. 
 
-![nodlim site preview](https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview.png)
+![nodlim site preview desktop](https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview.png)
+![nodlim site preview mobile](https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview2.png)
 
 ### Topics to be covered:
 
