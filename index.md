@@ -21,7 +21,7 @@ This website is a tool for you, the programmer, whether you're a student, teache
     * [Beginner Problems][htmlprob] 
     * [Resources][htmlres]
 
-[htmlprob]:{{ site.github.url }}/htmlprac/index/
+[htmlprob]:{{ site.github.url }}/html/index/
 [htmlres]:{{ site.github.url }}/resources/#html
 [exercises]:{{ site.github.url }}/exercises/
 [twit-kranz]: twitter.com/kranzuft/
