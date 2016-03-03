@@ -153,16 +153,20 @@ section {border:1px dotted #4ccb73; padding:.5em}
   } 
 }
 
-/* Hide blockquote on small windows */
-@media (max-width: 48em), (min-width: 58em) and  (max-height: 40em), (max-width: 58em) and (max-height: 30em) {
+/* Hide page quote on small windows */
+@media (max-width: 48em), (min-width: 58em) and  (max-height: 40em), (max-width: 58em) and (max-height: 32em) {
   .sidebar blockquote {
     display: none;
-  } 
+  }  
+}
+/* Hide acknowledgements link on small windows, slightly before the page quote */
+@media (max-width: 48em), (min-width: 58em) and  (max-height: 45em), (max-width: 58em) and (max-height: 35em) { 
   .sidebar-nav a.sidebar-nav-ack {
     display: none;
     margin-top: 0rem;
   }
 }
+
 
 
 
