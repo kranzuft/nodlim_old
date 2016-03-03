@@ -29,7 +29,7 @@ These projects were the foundation this website was built from. Acknowledgements
 
 The jekyll template this website was built on was [Hyde][hyde-web], designed by [@mdo][mdo-twitter] as an offical template for his own foundational jekyll setup [Poole][poole-web]. Hyde and Poole helped this site blossom, acting as excellent Jekyll and CSS learning material. Hyde was easy to build on top of, and inspired nodlim's design profoundly.
 
-## [Github Pages][gh-pages]
+## [Github Pages][gh-pages] for Hosting
 
 Nodlim is hosted entirely free on [github pages][gh-pages], directly through the nodlim repository on github. It works amazingly well, and works excellently with jekyll sites.
 
