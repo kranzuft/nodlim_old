@@ -4,7 +4,7 @@ A website in early development, aimed toward providing programming challenges wi
 
 | Desktop | Mobile |
 | ------- | ------ |
-| <img src="https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview.png" alt="nodlim desktop site preview" width=443> | <img src="https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview2.png" alt="nodlim mobile site preview" width = 267> |
+| <img src="https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview.png" alt="nodlim desktop site preview" height=357> | <img src="https://raw.githubusercontent.com/kranzuft/nodlim/master/images/preview2.png" alt="nodlim mobile site preview" height=384> |
 
 ### Topics to be covered:
 
