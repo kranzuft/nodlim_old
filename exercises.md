@@ -20,16 +20,16 @@ Below is the table of contents for all programming challenge books. Solutions ar
       BOOK {{ matter.booknum }}: {{ matter.title }}
     </a>
   </strong>
-  <ol>
+  <ol> 
+    {% for doc in matter.docs %}
+    {% if doc.questions != null %}
     <li class="tocnav section">
-      {% for doc in matter.docs %}
-      {% if doc.questions != null %}
       <a href="{{ site.github.url }}/{{ matter.label }}/{{ doc.section }}/">
         {{ doc.title }}
       </a>
-      {% endif %}
-      {% endfor %}
     </li>
+    {% endif %}
+    {% endfor %} 
   </ol>
   {% endif %}
   {% endfor %}
