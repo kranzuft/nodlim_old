@@ -11,7 +11,7 @@ qauth-short: I.Kant
 
 -------------------------
 
-> **NOTE**: This website is in very early stages of development. HTML exercises are currently under development, but nothing else has been completed thus far. Stay up to date by following [@kranzuft][twit-nod].
+> **NOTE**: This website is in a very early stage of development. HTML exercises are currently under development. Stay up to date by following [@nodelimit][twit-nod].
 
 This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt ideas. Exercises can be found [here][exercises].
 
