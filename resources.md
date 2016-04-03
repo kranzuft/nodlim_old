@@ -34,7 +34,11 @@ qcite: http://www.worldofdante.org/comedy/dante/inferno.xml/1.7
 
 * [Learn CSS Layout](http://learnlayout.com/) **FREE** "_This site teaches the CSS fundamentals that are used in any website's layout._"
 
-<h2 id="C">C</h2>
+<hr />
+
+<h2 id="C">The C Programming Language</h2>
+
+<h3>Online Lessons, Books and Articles</h3>
 
 * [Expert C Programming: Deep C Programming](https://books.google.com.au/books?id=9f9uAQAAQBAJ&lpg=PR2&dq=deep%20c%20secrets%20programming&pg=PR2#v=onepage&q=deep%20c%20secrets%20programming&f=false)
 * [The C Programming Language (2nd ed.)](http://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628)
