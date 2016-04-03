@@ -9,7 +9,6 @@ qcite: https://en.wikipedia.org/wiki/The_Dispossessed
 
 -------------------------------------------------
 
-For updates on the development of the website, please follow [@nodelimit][twitter]. For questions and support, please email **help@nodlim.com**, and we will respond when we have the time.
+For updates on the development of the website, please follow [@nodelimit][twitter]. For questions and support, please email <a href="mailto:help@nodlim.com?subject=Support%20Request%20|%20{insert issue summary here}">help@nodlim.com</a>, and we will respond when we have the time.
 
 [twitter]:https://twitter.com/nodelimit
-
