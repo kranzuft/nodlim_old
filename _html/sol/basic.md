@@ -38,7 +38,7 @@ Here we've written a simple golang program in my HTML document. Clearly all the 
 Absolute Basics | Advanced Questions
 ====================================
 
-<h2 id="versions">Write a webpage in a bunch of HTML variants</h2>
+<h2 id="versions">Write a very simple webpage in five different HTML versions</h2>
 
 <h3 id="version5">HTML 5 Document</h3>
 {% include pen.html add="PNBgyG" h=250%}
@@ -51,6 +51,7 @@ Absolute Basics | Advanced Questions
 <h3 id="version2">HTML 2.0 Document</h3>
 
 <h3 id="versionx">XHTML (Strict) Document</h3>
+{% include pen.html add="JXaMZw" h=250 %}
 
 In all these examples, a specific set of html tags, attributes and content span all of the language variants. Here's a breakdown:
 
