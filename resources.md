@@ -61,7 +61,7 @@ qcite: http://www.worldofdante.org/comedy/dante/inferno.xml/1.7
 * Practical Foundations for Programming Languages ([1st ed. draft][PFPL1stD]) ([2nd ed. draft][PFPL2ndD]) **FREE** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
 * Practical Foundation for Programming Languages ([1st ed.][PFPL1st]) **PAID** "_A variety of programming language features are analyzed in the unifying framework of type theory._"
 
-<h3>Other Lists of References</h3>
+<h3>Other Lists of Resources</h3>
 
 * [So you want to learn type theory](http://purelytheoretical.com/sywtltt.html) **FREE** "_where to start? Here are some suggestions._"
 
