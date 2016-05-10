@@ -17,12 +17,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
@@ -61,7 +61,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
 /* Heading section */
 .sidebar h1 a {
   color: #fff; 
-  font-family: "PT Serif", Georgia, serif;
+  font-family: Georgia, serif;
   font-size: 2.5rem;
 }
 
@@ -75,12 +75,12 @@ section {border:1px dotted #4ccb73; padding:.5em}
   font-size: 1.4rem;
   position: relative;
   border-left: 0rem solid #e5e5e5;
-  padding: 0 1rem 0 0;
+  padding: 0;
   padding-right: 1rem;
   line-height: 1.5rem;
 }
 .page-quote blockquote p {
-  margin: 0 0 0;
+  margin: 0;
 }
 .page-quote blockquote footer cite a {
   font-size: 1rem;
@@ -231,7 +231,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
   padding-top: 0rem;
 }
 .tocnav ul {
-  font-family: "PT Serif", Georgia, serif;
+  font-family: Georgia, serif;
 }
 .tocnav a {
   color: #26282D;
