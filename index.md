@@ -7,9 +7,8 @@ qcite: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 qauth-short: I.Kant
 ---
 
-# A Greeting to Newcomers
-
--------------------------
+A Greeting for Interlopers
+==========================
 
 > **NOTE**: This website is in a very early stage of development. HTML exercises are currently under development. Stay up to date by following [@nodelimit][twit-nod].
 
