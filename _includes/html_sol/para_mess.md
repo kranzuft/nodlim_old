@@ -1,0 +1,1 @@
+Whitespace formatting is ignored in HTML5, such as the indentation and paragraphing in the above solution. Indentation can be added with elements such as paragraph ```<p>``` and unordered list ```<ul>```.

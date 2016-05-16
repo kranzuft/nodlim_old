@@ -1,0 +1,3 @@
+What is this? HTML can be written without any markup elements! No, not exactly. The document type is not specified in the source for this solution, leaving the browser to enter [quirks mode][htmlmodes]. In quirks mode, the browser does the best it can to correctly display your page. In future solutions we specify ```<!DOCTYPE html>``` in the source code, which is the HTML5 document type.
+
+If you specify a certain variant of HTML, such as XHTML, you may be forced to write [well-formed][xhtmllen] markup. It's worth looking into the [purpose of XHTML][xhtmlpurp] for more background on this issue of well-formedness.

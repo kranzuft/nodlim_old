@@ -1,0 +1,1 @@
+Here we've written a simple golang program in my HTML document. Clearly all the formatting has been removed, reinforcing what was said in the previous example.

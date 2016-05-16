@@ -1,0 +1,1 @@
+This an inherently subjective question, to an astronomical degree.
