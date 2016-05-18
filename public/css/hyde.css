@@ -17,12 +17,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
@@ -117,7 +117,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
     left: 0;
     bottom: 0;
     width: 15rem;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
   } 
   .sidebar h1 a {
     margin-top: 1.25rem;
