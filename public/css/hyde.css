@@ -93,12 +93,13 @@ section {border:1px dotted #4ccb73; padding:.5em}
   margin-bottom: 0rem;
 }
 .sidebar-nav-item {
-  display: inline; 
+  display: inline;  
 }
 .sidebar-nav a.sidebar-nav-ack { 
   color: rgba(192, 192, 192, 1);
   font-size: 1.05rem;
-  margin-top: 1.25rem;
+  margin-top: 1.25rem; 
+  font-weight: 700;
 }
 .sidebar a:hover {
   text-decoration: underline; 
