@@ -9,7 +9,7 @@ qcite: https://www.cs.cmu.edu/~rwh/plbook/2nded.pdf
 
 <hr>
 
-Below is the table of contents for all programming challenge books. Solutions are included for all problems. Most problems are for the absolute beginner, but experts can refresh their skills, and compare their solutions to our own. If you believe your solution is superiour to our, please <a href="{{ site.github.url }}/contact/">contact</a> us.
+Below is the table of contents for all programming challenge books. Solutions are included for all problems. Most problems are for the absolute beginner, but experts can refresh their skills, and compare their solutions to our own. If you believe your solution is superiour to our, please <a href="{{ site.github.url }}/contact/">contact</a> us. To learn about why we have chosen these languages, please see our page on [language choices][languages].
 
 <nav class="tocnav">
   {% for matter in site.collections %}
@@ -34,3 +34,5 @@ Below is the table of contents for all programming challenge books. Solutions ar
   {% endif %}
   {% endfor %}
 </nav>
+
+[languages][nodlim.com/languages]

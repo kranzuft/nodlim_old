@@ -1,1 +1,1 @@
-The root element, ```<html>```, surrounds all html source code besides the doctype. More elements such as ```<head>```, ```<body>```, and ```<p>``` should definitely be specified, and will be covered in later exercises.
+The root element surrounds all html source code, with the exception of the doctype. More elements should also be specified for all self-effacing developers, and these will certainly be covered in later exercises.

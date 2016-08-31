@@ -14,7 +14,7 @@ Acknowledgements must be provided for the hard work of several open source proje
 
 ## [Jekyll][jekyll-web] Site Generator
 
-[Jekyll][jekyll-web] aims to provide simple, blog-aware, static sites. It is an excelent static site generator and deserves far more attention. It is used to generate this website, and it is superbly great to work with.
+[Jekyll][jekyll-web] aims to provide simple, blog-aware, static sites. It is an excelent static site generator and deserves far more attention. It is used to generate this website, and it is great to work with.
 
 ## [@mdo's][mdo-twitter] templates for Jekyll
 

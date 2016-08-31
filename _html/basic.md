@@ -7,7 +7,7 @@ quote: Basic elements are the backbone of any HTML document. You will see these 
 qcite: https://developer.mozilla.org/en/docs/Web/HTML/Element#Basic_elements
 qauth: MDN HTML element reference
 questions:
-  - desc: Display a message. I would suggest "Hello, world!" if you want to conform to tradition. Use minimal html code.
+  - desc: Display a message. I would suggest "Hello, world!" if you want to follow tradition. Use minimal html code.
     link: hello
   - desc: Display "Hello HTML5" with a HTML5 document type and the HTML root element.
     link: doctype  
