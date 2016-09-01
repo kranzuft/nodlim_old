@@ -35,4 +35,4 @@ Below is the table of contents for all programming challenge books. Solutions ar
   {% endfor %}
 </nav>
 
-[languages][nodlim.com/languages]
+[languages]: nodlim.com/languages
