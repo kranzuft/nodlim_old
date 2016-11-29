@@ -1,0 +1,14 @@
+<nav class="tocnav">
+  {% assign colls = site.collections | sort : 'booknum' %}
+  
+  {% for matter in colls %}
+    {% if matter.topic != NULL %}  
+      <a href="{{ site.github.url }}/{{ matter.label }}/index">
+      <strong>BOOK {{ matter.booknum }}</strong>: <em>{{ matter.title }}</em>
+      </a> 
+
+      {% include topicnav.html topics=matter.docs %} 
+
+    {% endif %}
+  {% endfor %}
+</nav>
