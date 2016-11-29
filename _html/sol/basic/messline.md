@@ -1,6 +1,6 @@
 ---
 layout: solution
-title: HTML Solution | Display Message
+title: HTML5 Doctype and Root Element | HTML Solution
 ---
 
 ## Display "Hello HTML5" with a doctype and root element

@@ -1,6 +1,6 @@
 ---
 layout: solution
-title: HTML Solution | HTML Paragraphs
+title: HTML Whitespace | HTML Solution
 ---
 
 ## Display "Hello HTML5" with a doctype and root element

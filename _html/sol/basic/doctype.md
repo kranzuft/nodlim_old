@@ -1,6 +1,6 @@
 ---
 layout: solution
-title: HTML Solution | Create Super Simple HTML5 Document
+title: Basic HTML5 Document | HTML Solution
 ---
 
 ## Display "Hello HTML5" with a doctype and root element

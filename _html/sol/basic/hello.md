@@ -1,6 +1,6 @@
 ---
 layout: solution
-title: HTML Solution | Display Message
+title: Bad HTML5 Code | HTML Solution
 ---
 
 ## Display a message using as little HTML markup as possible.
