@@ -17,7 +17,7 @@ Hello, world!
 
 ### Discussion
 
-{% include html_sol/disp_mess.md %}
+{% include html_sol/hello.md %}
 
 [htmlmodes]:https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode "MDN: Quirky Standardy Discussion"
 [xhtmllen]:https://www.w3.org/TR/xhtml1/#diffs "W3C XHTML Comparison"

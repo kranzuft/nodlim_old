@@ -29,4 +29,4 @@ package main import "fmt" func main() { fmt.Println("Hello, golang!") }
 
 ### Discussion
 
-{% include html_sol/hello_prog.md %}
+{% include html_sol/messline.md %}

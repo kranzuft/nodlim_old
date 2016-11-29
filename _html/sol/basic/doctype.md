@@ -21,4 +21,4 @@ Hello, HTML5!
 
 ### Discussion
 
-{% include html_sol/doc_root.md %}
+{% include html_sol/doctype.md %}
