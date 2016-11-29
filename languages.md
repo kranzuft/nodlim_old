@@ -12,10 +12,10 @@ qcite: http://www.cs.utexas.edu/~EWD/transcriptions/EWD04xx/EWD498.html
 The shortlist of languages that are being considered for this website are the following, in very rough ordering:
 
 1. [HTML5][html]
-1. [C][c]
+1. [Pseudocode][pseudo]
+1. [Python][py]
 1. [C++11][cpp]
 1. [Javascript][js]
-1. [Python][py]
 1. [Golang][golang]
 1. [Lua][la]
 
@@ -23,9 +23,7 @@ The reason these languages will be prioritised over others, falls to the followi
 
 * The language is modern
 * The language is very popular
-* We have some personal interest
-
-The language that you may discern to be the most questionable inclusion, is the C programming language. The reason C has been included on this list, is both that many of these language are from the C programming language [family][cfamily], as well as that the language involves relatively more boiler plate code than the rest. These characteristics cause C to be a good language to compare other languages to, particularly because it makes seeing the benefits of code simplification and readibility in modern languages shockingly discernable, virtuous, and desirable.
+* Our team has personal investment
 
 [html]:https://www.w3.org/html/ 
 [c]:http://www.iso-9899.info/wiki/The_Standard#C11
@@ -35,3 +33,4 @@ The language that you may discern to be the most questionable inclusion, is the 
 [py]:https://www.python.org/
 [la]:https://www.lua.org/
 [cfamily]: https://en.wikipedia.org/wiki/Category:C_programming_language_family
+[pseudo]: http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
