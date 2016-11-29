@@ -23,10 +23,10 @@ collections:
   html:
     booknum: 1 
     topic: "Hypertext Markup Language"
-    title: "Hypertext Markup Language (HTML)"
+    title: "Hypertext Markup Language"
     output: true
   algo:
     booknum: 2
     topic: "Algorithms"
-    title: "Algorithms"
+    title: "Core Algorithms"
     output: true 
