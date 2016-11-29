@@ -12,17 +12,9 @@ A Greeting for Interlopers
 
 > **NOTE**: This website is in a very early stage of development. It has been tested on Chromium-based browsers and safari. HTML exercises are currently under development. Stay up to date by following [@nodelimit][twit-nod].
 
-This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt concepts. Exercises can be found [here][exercises], or explored below.
+This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt concepts. Exercises can be found [here][exercises].
 
-## Table of Contents
-
-*Book 1: Hypertext Markup Language (HTML)*
-
-{% include topicnav.html topics=site.html %}
-  
-*Book 2: Algorithms (Programming Language Agnostic)*
-
-{% include topicnav.html topics=site.algo %} 
+{% include globaltoc.html %}
 
 [htmlprob]:{{ site.github.url }}/html/index/
 [htmlres]:{{ site.github.url }}/resources/#html

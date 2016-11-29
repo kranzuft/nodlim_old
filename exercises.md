@@ -11,20 +11,6 @@ Below is the table of contents for all programming challenge books. Solutions ar
 
 <hr />
 
-<nav class="tocnav">
-  {% assign colls = site.collections | sort : 'booknum' %}
-  {% for matter in colls %}
-    {% if matter.topic != NULL %} 
-    <em>
-        <a href="{{ site.github.url }}/{{ matter.label }}/index">
-        BOOK {{ matter.booknum }}: {{ matter.title }}
-      </a>
-    </em>
-
-    {% include topicnav.html topics=matter.docs %} 
-
-    {% endif %}
-  {% endfor %}
-</nav>
+{% include globaltoc.html %}
 
 [languages]: /languages
