@@ -10,22 +10,10 @@ qauth: Mark Pilgrim
 
 <section class="description"></section>
   <p>
-    This is a large volume of programming challenges, with coded solutions. Organisation of these exercises is like the ocean: constantly changing. Keep that in mind.
+    This is a large volume of programming challenges, with coded solutions. Organisation of these exercises is constantly changing. Keep that in mind.
   </p>
 </section>
 
 <hr>
 
-<nav class="tocnav">
-  <ol>
-    {% for doc in site.html %}
-      {% if doc.questions != null %}
-        <li class="tocnav section">
-          <a href="{{ site.github.url }}/{{ doc.collection }}/{{ doc.section }}/">
-            {{ doc.title }}
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ol>
-</nav>
+{% include topicnav.html topics=site.html %}
