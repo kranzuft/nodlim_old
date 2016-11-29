@@ -1,16 +1,13 @@
-<h3>
-  {{ include.title }}
-</h3>
 <nav class="topicnav">
-  <ul>
-    <li>
-      {% for doc in {{ include.coll }} %}
-        {% if doc.questions != null %}
-            <a class="topicnav section" href="/{{ matter.label }}/{{ doc.title }}/index">
-              {{ doc.title }}
-            </a>
-        {% endif %}
-      {% endfor %}
-    </li>
-  </ul>
+  <ol> 
+	{% for doc in include.topics %} 
+	  {% if doc.questions != NULL %}
+		<li class="tocnav section">
+		  <a class="topicnav section" a href="{{ site.github.url }}/{{ doc.collection }}/{{ doc.section }}/">
+		    {{ doc.title }}
+		  </a>
+	    </li>  
+	  {% endif %}
+    {% endfor %} 
+  </ol>
 </nav>
