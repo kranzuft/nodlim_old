@@ -14,8 +14,10 @@ layout: default
         <a class = "pygmen" href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/{{qst.link}}">
           {{ qst.desc }}
         </a>
-        <a class = "codepen" href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/#{{qst.link}}">
+        {% if page.collection == HTML %}
+          <a class = "codepen" href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/#{{qst.link}}">
           (view with CodePen)
+        {% endif %}
         </a>
       </li>
     {% endfor %}
