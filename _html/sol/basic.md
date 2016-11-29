@@ -11,24 +11,24 @@ Absolute Basics | Answers
 <h2 id="hello">Display a message with minimal code</h2>
 
 {% include pen.html add="OMBovE" h=80 %}
-{% include html_sol/disp_mess.md %}
+{% include html_sol/hello.md %}
 
 <h2 id="doctype">Greet HTML5, specifying a doctype and root element</h2>
 
 {% include pen.html add="WrPboE" h=150 %}
-{% include html_sol/doc_root.md %}
+{% include html_sol/doctype.md %}
 
 <h2 id="multline">Write some paragraphs in a webpage</h2>
 
 {% include pen.html add="XXOXGL" h=400 %}
 
-{% include html_sol/para_mess.md %}
+{% include html_sol/multline.md %}
 
 <h2 id="messline">Choose a program from the hello world <a href="https://en.wikibooks.org/wiki/Computer_Programming/Hello_world">wikibook</a>, and copy it into a webpage.</h2>
 
 {% include pen.html add="qbgQGJ" h=300 %}
 
-{% include html_sol/hello_prog.md %}
+{% include html_sol/messline.md %}
 
 Absolute Basics | Advanced Questions
 ====================================
@@ -54,7 +54,7 @@ Coming Soon! Sorry this exercise is taking some time to research.
 <h3 id="versionx">XHTML (Strict) Document</h3>
 {% include pen.html add="JXaMZw" h=250 %}
 
-{% include html_sol/doc_vers.md %}
+{% include html_sol/versions.md %}
 
 <h2 id="essential">Write a webpage with the essentials</h2>
 
