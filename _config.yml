@@ -25,3 +25,8 @@ collections:
     topic: "Hypertext Markup Language"
     title: "Hypertext Markup Language (HTML)"
     output: true
+  algo:
+    booknum: 2
+    topic: "Algorithms"
+    title: "Algorithms"
+    output: true 
