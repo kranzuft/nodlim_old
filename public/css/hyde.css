@@ -160,6 +160,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
     display: none;
   }  
 }
+
 /* Hide acknowledgements link on small windows, slightly before the page quote */
 @media (max-width: 47.95em), (min-width: 58em) and  (max-height: 45em), (max-width: 58em) and (max-height: 35em) { 
   .sidebar-nav a.sidebar-nav-ack {
@@ -167,6 +168,8 @@ section {border:1px dotted #4ccb73; padding:.5em}
     margin-top: 0rem;
   }
 }
+
+/* Display codepen view option inline with pygments default option (clicking on description) */
 
 /* Sticky sidebar
  *
@@ -239,5 +242,13 @@ section {border:1px dotted #4ccb73; padding:.5em}
   display: block;
 }
 .tocnav.section {
-  padding-left: 1rem;
+  padding-left: 1rem; 
+}
+
+.tocnav.section a {
+  display: inline; 
+}
+
+.tocnav.section a.codepen {
+  font-style: italic;
 }
