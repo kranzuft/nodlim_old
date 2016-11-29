@@ -16,7 +16,7 @@ A website in early development, aimed toward providing programming challenges wi
 
 ### How long until everything is ready?
 
-Current estimate is in 2017 the HTML section will be completed. Language-agnostic questions will be finished by 2020 (hopefully). The references section will evolve over time.
+At this point I don't know when I will complete the HTML section, it's rather time consuming and not too exciting. Language-agnostic questions will be finished by 2020 (hopefully). The references section will evolve over time.
 
 ### Acknowledgements
 
