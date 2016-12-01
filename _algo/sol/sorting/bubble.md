@@ -29,6 +29,7 @@ def bubbleSort(items):
     return None
 
 ## =
+
 numbers = [10, 2, 3, 9, 4, 8, 6, 1, 7, 5]
 
 ## >
