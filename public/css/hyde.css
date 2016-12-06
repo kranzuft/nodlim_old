@@ -59,10 +59,8 @@ section {border:1px dotted #4ccb73; padding:.5em}
 }
 
 /* Heading section */
-.sidebar h1 a {
-  color: #fff; 
-  font-family: "Kanit", Georgia, serif;
-  font-size: 3rem; 
+.sidebar .logo { 
+  height: 3rem; 
 }
 
 /* Citation */
@@ -108,7 +106,6 @@ section {border:1px dotted #4ccb73; padding:.5em}
   font-size: 1.25rem;
 }
 
-
 /* set sidebar sizes on wide windows */
 @media (min-width: 47.95em) {
   .sidebar {
@@ -151,7 +148,13 @@ section {border:1px dotted #4ccb73; padding:.5em}
     margin-top: 1rem;
     margin-bottom: 0rem;
     line-height: 1rem;
-  } 
+  } 	
+  /* Logo */
+  .sidebar .logo {
+      margin-left: auto;
+      margin-right: auto; 
+      margin-bottom: 0;
+  }
 }
 
 /* Hide page quote on small windows */
