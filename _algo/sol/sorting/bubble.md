@@ -38,7 +38,9 @@ print("Sorted: \t %s" % numbers)
 ### Output
 
 ~~~
-$ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+$ python3 basic_bubble_sort.py
+Unsorted: 	 [10, 2, 3, 9, 4, 8, 6, 1, 7, 5]
+Sorted: 	 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ~~~
 
 ## C Programming Language
@@ -107,7 +109,10 @@ int swapAsc(int *A, int *B) {
 ### Output
 
 ~~~
-$ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+$ gcc -o basic_bubble_sort basic_bubble_sort.c 
+$ ./basic_bubble_sort
+Unsorted: 	2 6 3 9 8 7 1 5 4 10
+Sorted: 	1 2 3 4 5 6 7 8 9 10
 ~~~
 
 ## Go Programming Language
@@ -146,5 +151,7 @@ func main() {
 ## Output
 
 ~~~
-$ 1, 3, 4, 4
+$ go run basic_bubble_sort.go
+Unsorted: 	 [10 9 8 7 6 5 4 3 2 1]
+Sorted: 	 [1 2 3 4 5 6 7 8 9 10]
 ~~~
