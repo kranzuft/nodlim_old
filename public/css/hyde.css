@@ -13,7 +13,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Prompt", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -115,6 +115,12 @@ section {border:1px dotted #4ccb73; padding:.5em}
 }
 
 .jsbin p {
+  margin-top: 0.1rem;
+  margin-left: 2rem;
+}
+
+.jsbin img {
+  margin-top: 0.3rem;
   margin-left: 1rem;
 }
 
