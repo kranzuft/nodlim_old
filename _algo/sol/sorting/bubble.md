@@ -34,8 +34,6 @@ print("Sorted: \t %s" % numbers)
 
 ~~~
 
-### Output
-
 ~~~
 $ python3 basic_bubble_sort.py
 Unsorted: 	 [10, 2, 3, 9, 4, 8, 6, 1, 7, 5]
@@ -105,8 +103,6 @@ int swapAsc(int *A, int *B) {
 }
 ~~~
 
-### Output
-
 ~~~
 $ gcc -o basic_bubble_sort basic_bubble_sort.c 
 $ ./basic_bubble_sort
@@ -147,8 +143,6 @@ func main() {
 }
 ~~~
 
-## Output
-
 ~~~
 $ go run basic_bubble_sort.go
 Unsorted: 	 [10 9 8 7 6 5 4 3 2 1]
@@ -183,17 +177,8 @@ console.log("Unsorted:  " + unsorted_items);
 console.log("Sorted:    " + sorted_items);
 ~~~
 
-## Output
-
-<section id="jsbin">
-
-<div class="jsbin highlighter-rouge"><pre class="highlight"><code>
-"Unsorted:  4,6,2,9,8,1,7,3,10,5"
-"Sorted:    1,2,3,4,5,6,7,8,9,10"
-</code></pre></div>
-
-<a href="https://jsbin.com/liceci/edit?js,console" class="jsbin">
-<img src="/jsbin.svg" alt="Code on JsBin Sandbox" class="jsbin icon"/> <p>View in JsBin</p>
-</a> 
-
-</section>
+~~~
+$ node basic_bubble_sort.js
+Unsorted:  4,6,2,9,8,1,7,3,10,5
+Sorted:    1,2,3,4,5,6,7,8,9,10
+~~~
