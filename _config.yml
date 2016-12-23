@@ -14,7 +14,9 @@ description:      >
                   with answers in several programming languages.
 url:              "{{ site.github.url }}"
 
-gems: [pygments]
+gems: 
+  - pygments
+  - jekyll-minifier
 
 # Date settings
 timezone: Australia/Sydney
