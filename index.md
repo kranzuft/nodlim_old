@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-quote: Inconsistencies of our ideas become clear only during implementation. Thus it is that writing, experimentation, "working out" are essential disciplines for the theoretician.
+quote: Inconsistencies of our ideas become clear only during implementation. Thus it is that writing, experimentation, "working out" are essential disciplines... 
 qauth: Frederick P. Brooks
 qcite: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 qauth-short: I.Kant
@@ -10,7 +10,8 @@ qauth-short: I.Kant
 A Greeting for Interlopers
 ==========================
 
-> **NOTE**: This website is in a very early stage of development. It has been tested on Chromium-based browsers and safari. HTML exercises are currently under development. Stay up to date by following [@nodelimit][twit-nod].
+<p class="message"> <b>NOTE</b>: This website is in a very early stage of development. It has been tested on Chromium and Safari. Stay up to date by following <a href="https://twitter.com/nodelimit">@nodelimit</a> to be alerted when the first "book" (topic) is complete!
+</p>
 
 This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt concepts. Exercises can be found [here][exercises].
 
