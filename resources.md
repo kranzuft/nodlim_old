@@ -7,6 +7,8 @@ qauth: Dante [Allen M.]
 qcite: http://www.worldofdante.org/comedy/dante/inferno.xml/1.7 
 ---
 
+<hr />
+
 <h2 id="html">Hypertext Markup Language (HTML)</h2>
 
 <h3> References </h3>
