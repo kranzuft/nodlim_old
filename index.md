@@ -10,7 +10,7 @@ qauth-short: I.Kant
 A Greeting for Interlopers
 ==========================
 
-<p class="message"> <b>NOTE</b>: This website is in a very early stage of development. It has been tested on Chromium and Safari. Stay up to date by following <a href="https://twitter.com/nodelimit">@nodelimit</a> to be alerted when the first "book" (topic) is complete!
+<p class="message"> <strong>NOTE</strong>: This website is in a very early stage of development. It has been tested on Chromium and Safari. Stay up to date by following <a href="https://twitter.com/nodelimit">@nodelimit</a> to be alerted when the first "book" (topic) is complete!
 </p>
 
 This website is a tool for you, the programmer, whether you're a student, teacher or hobbyist of computer programming. It provides study problems to support learning material, and aims to help consolidate previously learnt concepts. Exercises can be found [here][exercises].
