@@ -3,7 +3,7 @@ layout: solution
 title: HTML5 Doctype and Root Element | HTML Solution
 ---
 
-## Display "Hello HTML5" with a doctype and root element
+## Use indentation in a bare-bones HTML document
 
 ### Source
 ~~~html

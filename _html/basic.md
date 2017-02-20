@@ -13,8 +13,8 @@ questions:
     link: doctype  
   - desc: Display several paragraphs on a webpage of text with a HTML5 doctype and HTML root element.
     link: multline
-  - desc: Display several lines of text with random spaces, tabs and new lines placed throughout.
-    link: messline
+  - desc: Display several lines of text with spaces, tabs and new lines placed throughout, in a bare-bones document.
+    link: codeline
 adv_questions:
   - desc: Write a webpage in 6 major versions of (X)HTML, conforming to the standards of each version. Research these yourself.  
     link: versions

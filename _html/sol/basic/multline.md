@@ -3,7 +3,7 @@ layout: solution
 title: HTML Whitespace | HTML Solution
 ---
 
-## Display "Hello HTML5" with a doctype and root element
+## Use paragraphs in a document with a root element and doctype.
 
 ### Source
 ~~~html
