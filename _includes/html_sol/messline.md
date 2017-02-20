@@ -1,1 +1,1 @@
-Here we've written a simple golang program in my HTML document. Clearly all the formatting has been removed, reinforcing what was said in the previous example.
+Here we've written a simple golang program in the HTML document, demonstrating what happens when several different types of indentation are used. The result is the formatting has been removed. Other elements are needed to present the code the way I set it out in the source code, as well as CSS if highlighted code is a concern.

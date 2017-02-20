@@ -1,1 +1,1 @@
-The root element surrounds all html source code, with the exception of the doctype. More elements should also be specified for all self-effacing developers, and these will certainly be covered in later exercises.
+The root element surrounds all html source code, with the exception of the doctype. More elements should also be specified, and these will certainly be covered in later exercises.
