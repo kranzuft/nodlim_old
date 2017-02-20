@@ -44,26 +44,28 @@ Sorted: 	 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ~~~c
 #include <stdio.h>  /* printf */
-#include <stdlib.h> /* atoi */
 
 const int MAX_NUMBERS = 10000;
 
-void BubbleSort(int unsorted[], int size);
-int swapAsc(int *A, int *B);
+void bubbleSort(int[], int);
+int swapAsc(int *, int *);
+void printIntArray(int, int []);
 
 int main(int argc, char* argv[]) {
 	const int size = 10;	/* Number of items input by user */ 
-	int numbers[size] = {2, 6, 3, 9, 8, 7, 1, 5, 0, 4};
+	int numbers[size] = {2, 6, 3, 9, 8, 7, 1, 5, 4, 10};
+
+    /* Output unsorted numbers */
+	printf("Unsorted: \t");
+	printIntArray(size, numbers);
+
 
     /* Sort numbers */
-    BubbleSort(numbers, size);
+    bubbleSort(numbers, size);
 
     /* Output sorted numbers */
-    for (int i = 0; i < size; i++) {
-        printf("%d ", numbers[i]);
-    }
-
-    printf("\n");
+	printf("Sorted: \t");
+	printIntArray(size, numbers); 
 
     return 0;
 }
@@ -72,7 +74,7 @@ int main(int argc, char* argv[]) {
  * Sorts elements by comparing adjacent elements until 
  * they are sorted. */
 
-void BubbleSort(int items[], int size) { 	
+void bubbleSort(int items[], int size) { 	
 	int sorted;
 
     /* Sort items until sorted */
@@ -100,6 +102,13 @@ int swapAsc(int *A, int *B) {
     }
 
     return 0;
+}
+
+void printIntArray(int size, int items[]) {	
+	for (int i = 0; i < size; i++) {
+		printf("%d ", items[i]);
+	}
+	printf("\n");
 }
 ~~~
 
