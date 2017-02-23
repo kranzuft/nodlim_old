@@ -11,9 +11,15 @@ layout: default
   <ol>
     {% for qst in page.questions %}
       <li class = "tocnav section">
-        <a class = "pygmen" href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/{{qst.link}}">
-          {{ qst.desc }}
-        </a>
+        <a href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/{{qst.link}}">
+          {% if qst.lang != NULL %}
+            <span data-balloon="Solutions are in: {{qst.lang}}" data-balloon-pos="up">
+              {{ qst.desc }}
+            </span> 
+          {% else %}
+            {{ qst.desc }}
+          {% endif %}
+        </a> 
         {% if page.collection == HTML %}
           <a class = "codepen" href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/#{{qst.link}}">
           (view with CodePen)
