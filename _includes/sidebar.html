@@ -1,21 +1,21 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     {% if page.quote != NULL %}
-    <section class="page-quote">
+    <div class="page-quote">
       <blockquote class="page-quote">
         <p>{{ page.quote }}</p>
         <footer>
           <cite><a href="{{ page.qcite }}">{{ page.qauth }}</a></cite>
         </footer>
       </blockquote>
-    </section>
+    </div>
     {% endif %}
 
-    <section>
+    <div>
       <a href="/">
 		<img src="/nodlim.svg" alt="Nodlim" class="logo" />
       </a>
-    </section>
+    </div>
 
     <nav class="sidebar-nav">
       {% for node in site.pages %} {% if node.layout == "root" %}
