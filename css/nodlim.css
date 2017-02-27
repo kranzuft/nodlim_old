@@ -102,11 +102,6 @@ section {border:1px dotted #4ccb73; padding:.5em}
 .sidebar-nav a.sidebar-nav-ack { 
   display: none; 
 }
-.sidebar section h1 {
-  margin-top: 1rem;
-  margin-bottom: 0rem;
-  line-height: 1rem;
-}
 
 /* set sidebar sizes on wide windows */
 @media (min-width: 48em) { 
@@ -122,7 +117,8 @@ section {border:1px dotted #4ccb73; padding:.5em}
     display: block;
   }
   .sidebar .logo {
-    margin-left: 0;
+    margin-left: auto;
+    display: block;
   }
   .sidebar-nav a.sidebar-nav-ack {
     color: rgba(192, 192, 192, 1); 
