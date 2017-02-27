@@ -7,8 +7,7 @@ qcite: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 qauth-short: I.Kant
 ---
 
-A Greeting for Interlopers
---------------------------
+<h1>Kranzuft's Programming Challenges and Solutions</h1>
 
 <p class="message"> <strong>NOTE</strong>: This website is in a very early stage of development. It has been tested on Chromium and Safari. Stay up to date by following <a href="https://twitter.com/nodelimit">@nodelimit</a> to be alerted when the first "book" (topic) is complete!
 </p>
