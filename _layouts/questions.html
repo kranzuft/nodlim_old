@@ -10,10 +10,10 @@ layout: default
   <strong> Questions </strong>
   <ol>
     {% for qst in page.questions %}
-      <li class = "tocnav section">
+      <li class = "tocnav section" data-balloon="Solutions are in {{qst.lang}}" > 
         <a href="{{ site.github.url }}/{{ page.collection }}/sol/{{ page.section }}/{{qst.link}}">
           {% if qst.lang != NULL %}
-            <span data-balloon="Solutions are in: {{qst.lang}}" data-balloon-pos="up">
+            <span>
               {{ qst.desc }}
             </span> 
           {% else %}

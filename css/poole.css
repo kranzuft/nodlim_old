@@ -303,7 +303,7 @@ button[data-balloon] {
   overflow: visible;
 }
 [data-balloon] {
-  position: relative;
+  position: relative; 
 }
 [data-balloon]:before,
 [data-balloon]:after {
@@ -315,7 +315,7 @@ button[data-balloon] {
   pointer-events: none;
   -webkit-transition: all 0.18s ease-out 0.18s;
   transition: all 0.18s ease-out 0.18s;
-  bottom: 100%;
+  bottom: 100%; 
   left: 50%;
   position: absolute;
   z-index: 10;
@@ -356,7 +356,7 @@ button[data-balloon] {
   pointer-events: auto;
   -webkit-transform: translate(-50%, 0);
   -ms-transform: translate(-50%, 0);
-  transform: translate(-50%, 0);
+  transform: translate(-50%, 0); 
 }
 [data-balloon].font-awesome:after {
   font-family: FontAwesome;
