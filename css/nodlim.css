@@ -35,7 +35,7 @@ html {
  * Simple boxing of elements to check correct sectioning and classification.
  */
 
-/*
+/* Uncomment to view
 div {border:1px dotted #6a9fb5; padding:.5em}
 nav {border:1px dotted #c73a50; padding:.5em}
 section {border:1px dotted #4ccb73; padding:.5em}
@@ -117,7 +117,7 @@ section {border:1px dotted #4ccb73; padding:.5em}
     display: block;
   }
   .sidebar .logo {
-    margin-left: auto;
+    margin-left: 0;
     display: block;
   }
   .sidebar-nav a.sidebar-nav-ack {
